@@ -15,12 +15,17 @@
 
   ## Installation
   1. To get started with this project, you can clone the repository to your local machine.
-  2. 
+  2. Navigate to the project directory.
+  3. Make sure you have the right npm installed: `npm i inquirer@6.5.0 --save`
+  4. Open terminal and start application: node index.js
 
-![Example Screenshot 1]()
-![Example Screenshot 2]()
-![Example Screenshot 3]()
-![Example Screenshot 4]()
+![Git Repo Screenshot 1](/Screenshots/Screenshot%201.png)
+
+![Example Screenshot 2](/Screenshots/Screenshot%202.png)
+
+![Example Screenshot 3](/Screenshots/Screenshot%203.png)
+
+![Example Screenshot 4](/Screenshots/Screenshot%204.png)
   
  # Resources 
 
@@ -28,7 +33,6 @@ Here are some useful resources related to this project:
 
 - [Mdn web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript): The official Mdn docs website.
 
-- [W3C HTML Specification](https://www.w3.org/TR/html52/): The official HTML specification by the World Wide Web      Consortium.
 - [Stack Overflow](https://stackoverflow.com): Get answers to common questions and issues related to this project.
 
 - [GitHub Issues](https://support.github.com/features/issues): Report issues and request assistance.
@@ -36,9 +40,14 @@ Here are some useful resources related to this project:
 - [How to write a README file](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/): How to Write a Good README File for Your GitHub Project.
 
 - [Markdown License badges](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba): This list includes the most common open source and open data licenses.
+
+- [npm-install](https://docs.npmjs.com/cli/v6/commands/npm-install): install npm.
   
 
   ## License
+
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
   This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
   
