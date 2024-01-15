@@ -69,6 +69,8 @@ If you have any questions or need assistance, feel free to reach out to me on my
 - When a user clicks on the links in the Table of Contents then they are taken to the corresponding section of the README.
 
 
+>[Note] I have received code outside curriculum content from support staff such as a TA, Tutor ect
+
 > [!URL]
 
 - [GitHub repository](https://github.com/2akia/README-File-Command-Line-Application): README-File-Command-Line-Application.
