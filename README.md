@@ -75,4 +75,6 @@ If you have any questions or need assistance, feel free to reach out to me on my
 
 - [GitHub repository](https://github.com/2akia/README-File-Command-Line-Application): README-File-Command-Line-Application.
 
+- [Video Recording](https://youtu.be/8wvhv_UJMzg): Video recording.
+
 Thank you for having a look.
