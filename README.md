@@ -32,10 +32,14 @@ Here are some useful resources related to this project:
 - [Stack Overflow](https://stackoverflow.com): Get answers to common questions and issues related to this project.
 
 - [GitHub Issues](https://support.github.com/features/issues): Report issues and request assistance.
+
+- [How to write a README file](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/): How to Write a Good README File for Your GitHub Project.
+
+- [Markdown License badges](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba): This list includes the most common open source and open data licenses.
   
 
   ## License
-  This project is licensed under the MIT License. See the [LICENSE](LICENSE)file for details.
+  This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
   
  #### Support 
@@ -58,6 +62,6 @@ If you have any questions or need assistance, feel free to reach out to me on my
 
 > [!URL]
 
-- [GitHub repository](https://github.com/2akia/README-File-Command-Line-Application)
+- [GitHub repository](https://github.com/2akia/README-File-Command-Line-Application): README-File-Command-Line-Application.
 
 Thank you for having a look.
